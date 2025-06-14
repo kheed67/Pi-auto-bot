@@ -1,0 +1,5 @@
+flask
+mnemonic
+bip32utils
+requests
+ed25519
